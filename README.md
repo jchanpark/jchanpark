@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi there 👋
 
 # I'm Jay Park
 
@@ -9,7 +9,7 @@ I am a committed and enthusiastic coder with an eye for detail and persistent pr
 * 💼 Sharing updates on: [LinkedIn](https://www.linkedin.com/in/jayparkcanada/)
 * 💕 Passion for: 🏍 & 🏋🏽‍♂️ & 🎧 
 
-## Resume
+## Resume 
 [resume](https://resume.creddle.io/resume/eiv5x05yzz9)
 
 ## Current Stack
