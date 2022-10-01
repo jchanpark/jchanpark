@@ -7,7 +7,7 @@ I am a committed and enthusiastic coder with an eye for detail and persistent pr
 * 🌱 I’m currently learning TypeScript, Angular, and Data Structures/Algorithms.
 * 📫 How to reach me: jay.channing.park@gamil.com
 * 💼 Sharing updates on: [LinkedIn](https://www.linkedin.com/in/jayparkcanada/)
-+ 💼 Sharing portfolio: [Portfolio](https://jayportfolio.vercel.app/)
++ 💼 My portfolio: [Portfolio](https://jayportfolio.vercel.app/)
 * 💕 Passion for: 🏍 & 🏋🏽‍♂️ & 🎧 
 
 ## Resume 
