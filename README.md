@@ -2,7 +2,7 @@ Hi there 👋
 
 # I'm Jay Park
 
-I am a committed and enthusiastic coder with an eye for detail and persistent problem-solving skills. I have over a decade of project management experience in the engineering and automotive sectors. As a former industrial engineering project manager, I believe I have the tools needed to solve complex problems. Considering this, software development has always been attractive to me as you can reach solutions to various issues more creatively and efficiently.
+I am a committed and enthusiastic coder with an eye for detail and persistent problem-solving skills. I have over a decade of project management experience in the engineering and automotive sectors. As a former industrial engineering professional, I believe I have the tools needed to solve complex problems. Considering this, software development has always been attractive to me as you can reach solutions to various issues more creatively and efficiently.
 
 * 🌱 I’m currently learning TypeScript, Angular, and Data Structures/Algorithms.
 * 📫 How to reach me: jay.channing.park@gamil.com
