@@ -13,4 +13,4 @@ I am a committed and enthusiastic coder with an eye for detail and persistent pr
 [resume](https://resume.creddle.io/resume/eiv5x05yzz9)
 
 ## Current Stack
-Javascript, NodeJS, Express, ReactJS, HTML5, CSS, PostgresSQL, Ruby on Rails, JQuery, Ajax, Axios, Bootstrap, Storybook, SASS, Mocha & Chai, Jest, Cypress
+JavaScript, TypeScript, NodeJS, Express, ReactJS, HTML5, CSS, PostgresSQL, MongoDB, Ruby on Rails, JQuery, Ajax, Axios, Bootstrap, Storybook, SASS, Mocha & Chai, Jest, Cypress
