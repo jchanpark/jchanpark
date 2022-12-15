@@ -4,7 +4,7 @@ Hi there 👋
 
 I am a committed and enthusiastic coder with an eye for detail and persistent problem-solving skills. I have over a decade of project management experience in the engineering and automotive sectors. As a former industrial engineering professional, I believe I have the tools needed to solve complex problems. Considering this, software development has always been attractive to me as you can reach solutions to various issues more creatively and efficiently.
 
-* 🌱 I’m currently learning TypeScript, Angular, and Data Structures/Algorithms.
+* 🌱 I’m currently learning Angular and Python.
 * 📫 How to reach me: jay.channing.park@gamil.com
 * 💼 Sharing updates on: [LinkedIn](https://www.linkedin.com/in/jayparkcanada/)
 * 💕 Passion for: 🏍 & 🏋🏽‍♂️ & 🎧 
